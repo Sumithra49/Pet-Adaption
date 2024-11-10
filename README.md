@@ -72,7 +72,7 @@ my-app/
    │  ├─ api.js
    │  └─ index.html
    └─ Readme.md
-
+```
 
 ## Features
 
