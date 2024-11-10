@@ -104,7 +104,7 @@ Quickly set up and start the project with these steps:
 1. **Install the Project:**
    Clone and install the project's dependencies:
    ```bash
-   git clone https://github.com/sumit1921184/PetPals.git
+   git clone https://github.com/Sumithra49/Pet-Adaption.git
    for backend
    cd backend
    npm install
