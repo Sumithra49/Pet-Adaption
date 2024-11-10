@@ -73,23 +73,6 @@ my-app/
    │  └─ index.html
    └─ Readme.md
 
-```
-
-
-## Video Walkthrough
-
-
-
-https://github.com/heyyrahul/vivid-roll-405/assets/79692865/75322f54-30ab-4262-ab2b-dd15eeacd9fb
-
-
-
-
-
-
-
-
-- **Codebase Walkthrough:** [1-5 minutes video link]
 
 ## Features
 
@@ -211,10 +194,6 @@ Applications
 ## Admin Users Page
 ![admin userlist](https://github.com/heyyrahul/vivid-roll-405/assets/79692865/f04d4b35-6fe7-494a-bc70-4eddbc107f8f)
 
-## Contributors
-## [Sumit Kumar Jha](https://www.linkedin.com/in/sumit-kumar-jha-050156217/)
-## [Rahul Kumar](https://www.linkedin.com/in/heyyrahul/)
-## [Anshu Kumari](https://www.linkedin.com/in/anshu-kumari-5a4806193/)
-## [Sachin Mohite](https://www.linkedin.com/in/sachin-mohite-0893a7203/)
+
 
 
